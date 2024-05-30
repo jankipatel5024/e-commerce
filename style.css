@@ -1,0 +1,144 @@
+.navbar{
+    padding: 10px;
+    text-align: center;
+    margin: -20px;
+}
+.navbar ul {
+    list-style: none;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: left;
+    background-color:gainsboro;
+}
+.navbar li{
+    float: right;
+    margin: 21px;
+}
+.navbar a{
+    color:black;
+    text-decoration: none;
+    font-size: large;
+}
+.btn{
+    justify-content: center;
+    
+}
+#parent{
+    text-align: center;
+    background-color: gainsboro;
+}
+#parent h1{
+    margin: 11px;
+    padding: 24px;
+
+}
+#parent button{
+    border: none;
+    border-radius: 5px;
+    box-sizing: 25px;
+    font-size: medium;
+    padding: 22px;
+    margin: 46px
+}
+.main{
+    display: flex;
+    justify-content: center;
+    
+}
+.img1 img{
+    align-items: center;
+    border-radius: 100%;
+    width: 200px;
+    margin: 0 auto;
+    padding: 5px;
+    
+}
+.img1 p{
+    justify-content: center;
+    text-align: center;
+}
+.new{
+    
+    text-align: center;
+    background-image: url(./img/log2.jpg);
+    background-size: cover;
+    padding: 97px;
+}
+.new h1{
+    color: bisque;
+    background-color:black;
+}
+.new p{
+    font-size: x-large;
+    color: white;
+}
+.new button{
+    border: none;
+    margin: 12px;
+    padding: 15px;
+    font-size: x-large;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding-top: -33px;
+    background-size: cover;
+}
+.section .item{
+    padding: 30px;
+    border-radius: 10px;
+    margin: 30px;
+    box-shadow: 4px 4px 10px gray;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: gainsboro;
+
+}
+.footer.abc{
+ margin: 27px;
+ justify-items: flex-start;
+}
+.footer .footer1{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    
+
+}
+.footer .footer2{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.footer .footer3{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.footer .footer4{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+ .button{
+    padding: 13px;
+    border: none;
+    margin-top: 35px;
+    border-radius: 10px;
+    font-size: larger;
+}
